@@ -91,12 +91,15 @@ namespace Lab_7_Lepilkin_Maksim_ISP_232
             //Console.WriteLine($"{dice1._sides}-гранный кубик: {dice1.Roll()},{dice1.Roll()},{dice1.Roll()}");
 
             // задание 5
-            //Character warrior = new Character();
-            //Character archer = new Character();
-            //Character mage = new Character();
-            //Console.WriteLine($"Класс Воин - Здоровье: {warrior.Health = 100} | Мана: {warrior.Mana = 20}");
-            //Console.WriteLine($"Класс Лучник - Здоровье: {archer.Health = 75} | Мана: {archer.Mana = 50}");
-            //Console.WriteLine($"Класс Маг - Здоровье: {mage.Health = 50} | Мана: {mage.Mana = 100}");
+            Character warrior = new Character();
+            Character archer = new Character();
+            Character mage = new Character();
+            Console.WriteLine($"Класс Воин - Здоровье: {warrior.Health = 100} | Мана: {warrior.Mana = 20}");
+            warrior.Attack();
+            Console.WriteLine($"Класс Лучник - Здоровье: {archer.Health = 75} | Мана: {archer.Mana = 50}");
+            archer.Attack();
+            Console.WriteLine($"Класс Маг - Здоровье: {mage.Health = 50} | Мана: {mage.Mana = 100}");
+            mage.Attack();
 
         }
     }
