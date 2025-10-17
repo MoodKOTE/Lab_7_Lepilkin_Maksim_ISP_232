@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_7_Lepilkin_Maksim_ISP_232", "Lab_7_Lepilkin_Maksim_ISP_232\Lab_7_Lepilkin_Maksim_ISP_232.csproj", "{BFD3026C-C5A4-4ED8-9085-AAF1B3E6D33C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFD3026C-C5A4-4ED8-9085-AAF1B3E6D33C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD3026C-C5A4-4ED8-9085-AAF1B3E6D33C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFD3026C-C5A4-4ED8-9085-AAF1B3E6D33C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFD3026C-C5A4-4ED8-9085-AAF1B3E6D33C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {250A6C35-87DD-483A-A908-F647FEB6F2BB}
+	EndGlobalSection
+EndGlobal
